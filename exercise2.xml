@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <name>
+        <firstName>Edmond</firstName>
+        <lastName>Pietrli</lastName>
+    </name>
+    <occupation>Call Center Agent</occupation>
+    <address>
+        <country>USA</country>
+        <state>California</state>
+        <city>St. Carla</city>
+        <zipCode>94043</zipCode>
+        <street>1600 Amphitheatre Pkwy, Mountain View</street>
+    </address>
+    <hobbies>
+        <hobby>Football</hobby>
+        <hobby>Swimming</hobby>
+    </hobbies>
+</person>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programOfStudy>
+    <program semester="Fall" year="2008">
+        <goal number="8">PHIL 101</goal>
+        <goal number="11">ECON 201</goal>
+        <coreCourse>MGT 217</coreCourse>
+        <majorCourses>
+            <majorCourse>CIS 120</majorCourse>
+            <majorCourse>CIS 403</majorCourse>
+        </majorCourses>
+    </program>
+    <program semester="Spring" year="2009">
+        <additionalCourses>
+            <additionalCourse>MGT 261</additionalCourse>
+            <additionalCourse>MKTG 325</additionalCourse>
+        </additionalCourses>
+        <majorCourses>
+            <majorCourse>CIS 220</majorCourse>
+            <majorCourse>CIS 407</majorCourse>
+            <majorCourse>CIS 490</majorCourse>
+        </majorCourses>
+    </program>
+</programOfStudy>
